@@ -1,1 +1,3 @@
-- [ ] find a better data source
+- [ ] find a better data source.
+- [ ] make it also suitable for desktop.
+- [ ] clean images not in the dataset anymore.
