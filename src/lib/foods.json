@@ -1,178 +1,178 @@
 [
   {
-    "name": "Naan-e Barbari",
+    "name": "نان بربری",
     "image": "images/000008.jpg"
   },
   {
-    "name": "OMLET KHORMA",
+    "name": "املت خرما",
     "image": "images/000010.jpg"
   },
   {
-    "name": "EGGPLANT YOGURT DIP",
+    "name": "بورانی بادمجان",
     "image": "images/000012.jpg"
   },
   {
-    "name": "MAYGOU POLO",
+    "name": "میگو پلو",
     "image": "images/000013.jpg"
   },
   {
-    "name": "ALBALOO POLO",
+    "name": "آلبالو پلو",
     "image": "images/000014.jpg"
   },
   {
-    "name": "TACHIN BA MORGH",
+    "name": "ته چین با مرغ",
     "image": "images/000015.jpg"
   },
   {
-    "name": "MORASA POLO",
+    "name": "مرصع پلو",
     "image": "images/000016.jpg"
   },
   {
-    "name": "MORGH TORSH",
+    "name": "مرغ ترش",
     "image": "images/000018.jpg"
   },
   {
-    "name": "BAGHALI GATOGH",
+    "name": "باقلا قاتق",
     "image": "images/000019.jpg"
   },
   {
-    "name": "HERB, KIDNEY BEAN, AND BEEF STEW",
+    "name": "خورش سبزی، لوبیا قرمز و گوشت",
     "image": "images/000020.jpg"
   },
   {
-    "name": "GHAYME BADEMJOON",
+    "name": "قیمه بادمجان",
     "image": "images/000021.jpg"
   },
   {
-    "name": "KASHK-O-BADEMJOON",
+    "name": "کشک بادمجان",
     "image": "images/000022.jpg"
   },
   {
-    "name": "DOLMEH BADEMJOON",
+    "name": "دلمه بادمجان",
     "image": "images/000023.jpg"
   },
   {
-    "name": "DOLMEH BARG MO",
+    "name": "دلمه برگ مو",
     "image": "images/000025.jpg"
   },
   {
-    "name": "KHORESHT-E ALBALOO BA SIB",
+    "name": "خورش آلبالو با سیب",
     "image": "images/000027.jpg"
   },
   {
-    "name": "Giti Joon’s Stuffed Chicken",
+    "name": "مرغ شکم‌پر گیتی جون",
     "image": "images/000028.jpg"
   },
   {
-    "name": "MOSAMA BADEMJOON",
+    "name": "مسما بادمجان",
     "image": "images/000029.jpg"
   },
   {
-    "name": "Sofreh Ghalieh Mahi",
+    "name": "سفره قلیه ماهی",
     "image": "images/000031.jpg"
   },
   {
-    "name": "MAYGOU ZAFFERANI",
+    "name": "میگو زعفرانی",
     "image": "images/000032.jpg"
   },
   {
-    "name": "A’ASH-E GOJE FARANGI",
+    "name": "آش گوجه فرنگی",
     "image": "images/000034.jpg"
   },
   {
-    "name": "A’ASH-E ANAR",
+    "name": "آش انار",
     "image": "images/000035.jpg"
   },
   {
-    "name": "KUKU KALAM",
+    "name": "کوکو کلم",
     "image": "images/000037.jpg"
   },
   {
-    "name": "RANGINAK",
+    "name": "رنگینک",
     "image": "images/000039.jpg"
   },
   {
-    "name": "Baghlava Cake",
+    "name": "کیک باقلوا",
     "image": "images/000040.jpg"
   },
   {
-    "name": "BASTANI AKBAR MASHDI",
+    "name": "بستنی اکبر مشدی",
     "image": "images/000041.jpg"
   },
   {
-    "name": "SOHAN ASALI",
+    "name": "سوهان عسلی",
     "image": "images/000042.jpg"
   },
   {
-    "name": "NAZ KHATOON",
+    "name": "ناز خاتون",
     "image": "images/000044.jpg"
   },
   {
-    "name": "TORSHI MIVEH",
+    "name": "ترشی میوه",
     "image": "images/000045.jpg"
   },
   {
-    "name": "MORABA HAVIJ",
+    "name": "مربا هویج",
     "image": "images/000047.jpg"
   },
   {
-    "name": "Sofreh Bread",
+    "name": "نان سفره",
     "image": "images/000049.jpg"
   },
   {
-    "name": "Beef Tongue Sandwich",
+    "name": "ساندویچ زبان گوساله",
     "image": "images/000050.jpg"
   },
   {
-    "name": "Spicy Tahini Date Salad",
+    "name": "سالاد خرما و ارده تند",
     "image": "images/000051.jpg"
   },
   {
-    "name": "Watermelon Feta Salad",
+    "name": "سالاد هندوانه و پنیر فتا",
     "image": "images/000052.jpg"
   },
   {
-    "name": "KUKU GHANDI",
+    "name": "کوکو قندی",
     "image": "images/000053.jpg"
   },
   {
-    "name": "Duck Fesenjan",
+    "name": "فسنجان با اردک",
     "image": "images/000054.jpg"
   },
   {
-    "name": "CHICKEN with PRUNE SAUCE",
+    "name": "مرغ با سس آلو",
     "image": "images/000055.jpg"
   },
   {
-    "name": "ROSEWATER and CARDAMOM CUSTARD with a COOKIE CRUST",
+    "name": "کاستارد گلاب و هل با کراست کوکی",
     "image": "images/000056.jpg"
   },
   {
-    "name": "SHARBAT-E SEKANJABIN",
+    "name": "شربت سکنجبین",
     "image": "images/000057.jpg"
   },
   {
-    "name": "Sekanjabin “Martini”",
+    "name": "سکنجبین ماریتینی",
     "image": "images/000058.jpg"
   },
   {
-    "name": "Limoo Mezcal",
+    "name": "لیموی مسکال",
     "image": "images/000059.jpg"
   },
   {
-    "name": "Rivas Sour",
+    "name": "ریواس سور",
     "image": "images/000060.jpg"
   },
   {
-    "name": "Saffron Vesper",
+    "name": "زعفران وسپر",
     "image": "images/000061.jpg"
   },
   {
-    "name": "Date Night",
+    "name": "شب خرما",
     "image": "images/000062.jpg"
   },
   {
-    "name": "KACHI",
+    "name": "کاچی",
     "image": "images/000063.jpg"
   }
 ]
