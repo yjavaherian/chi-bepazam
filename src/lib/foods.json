@@ -1,13 +1,5 @@
 [
   {
-    "name": "نان بربری",
-    "image": "images/000008.jpg"
-  },
-  {
-    "name": "املت خرما",
-    "image": "images/000010.jpg"
-  },
-  {
     "name": "بورانی بادمجان",
     "image": "images/000012.jpg"
   },
@@ -36,7 +28,7 @@
     "image": "images/000019.jpg"
   },
   {
-    "name": "خورش سبزی، لوبیا قرمز و گوشت",
+    "name": "قورمه سبزی",
     "image": "images/000020.jpg"
   },
   {
@@ -60,7 +52,7 @@
     "image": "images/000027.jpg"
   },
   {
-    "name": "مرغ شکم‌پر گیتی جون",
+    "name": "مرغ شکم‌پر",
     "image": "images/000028.jpg"
   },
   {
@@ -68,7 +60,7 @@
     "image": "images/000029.jpg"
   },
   {
-    "name": "سفره قلیه ماهی",
+    "name": "قلیه ماهی",
     "image": "images/000031.jpg"
   },
   {
@@ -88,36 +80,8 @@
     "image": "images/000037.jpg"
   },
   {
-    "name": "رنگینک",
-    "image": "images/000039.jpg"
-  },
-  {
-    "name": "کیک باقلوا",
-    "image": "images/000040.jpg"
-  },
-  {
-    "name": "بستنی اکبر مشدی",
-    "image": "images/000041.jpg"
-  },
-  {
-    "name": "سوهان عسلی",
-    "image": "images/000042.jpg"
-  },
-  {
     "name": "ناز خاتون",
     "image": "images/000044.jpg"
-  },
-  {
-    "name": "ترشی میوه",
-    "image": "images/000045.jpg"
-  },
-  {
-    "name": "مربا هویج",
-    "image": "images/000047.jpg"
-  },
-  {
-    "name": "نان سفره",
-    "image": "images/000049.jpg"
   },
   {
     "name": "ساندویچ زبان گوساله",
@@ -142,37 +106,5 @@
   {
     "name": "مرغ با سس آلو",
     "image": "images/000055.jpg"
-  },
-  {
-    "name": "کاستارد گلاب و هل با کراست کوکی",
-    "image": "images/000056.jpg"
-  },
-  {
-    "name": "شربت سکنجبین",
-    "image": "images/000057.jpg"
-  },
-  {
-    "name": "سکنجبین ماریتینی",
-    "image": "images/000058.jpg"
-  },
-  {
-    "name": "لیموی مسکال",
-    "image": "images/000059.jpg"
-  },
-  {
-    "name": "ریواس سور",
-    "image": "images/000060.jpg"
-  },
-  {
-    "name": "زعفران وسپر",
-    "image": "images/000061.jpg"
-  },
-  {
-    "name": "شب خرما",
-    "image": "images/000062.jpg"
-  },
-  {
-    "name": "کاچی",
-    "image": "images/000063.jpg"
   }
 ]
