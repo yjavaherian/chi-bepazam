@@ -1,0 +1,8 @@
+- [ ] change the codebase to match what we want for this new app.
+    - [x] change the color pallete 
+    - [x] change font to something persian
+    - [x] change the pages
+    - [x] change the logos & header
+- [ ] publish
+- [ ] make it public
+- [ ] find a better data source
